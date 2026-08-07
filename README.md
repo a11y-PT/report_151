@@ -1,6 +1,6 @@
 ---
 website: "Portal Institucional do Município de Alter do Chão"          # Entre as aspas escreve o nome do website
-date: "17/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "07/08/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://cm-alter-chao.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://cm-alter-chao.pt/informacoes-uteis/declaracao-de-acessibilidade-e-usabilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "CM de ALter do Chão"         # Entre as aspas escrever o nome do owner do website
